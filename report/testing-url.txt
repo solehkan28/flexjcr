@@ -1,0 +1,11 @@
+1. http://localhost:8080/flexjcr/ReportServlet?reportName=RPT_GADAR_SHIFT_DOKTER&param1=2019&param2=RUMAH%20SAKIT%20ISLAM%20JAKARTA%20PONDOK%20KOPI
+2. http://localhost:8080/flexjcr/ReportServlet?reportName=sample&param1=01/03/2019&param2=07/07/2019&param3=104&param4=12&param5=RUMAH%20SAKIT%20ISLAM%20JAKARTA%20PONDOK%20KOPI
+3. http://localhost:8080/flexjcr/ReportServlet?reportName=RPT_GADAR_REGISTRASI&param1=01/07/2019&param2=02/07/2019&param3=129&param4=OUTPATIENT&param5=RUMAH%20SAKIT%20ISLAM%20JAKARTA%20PONDOK%20KOPI
+4. http://localhost:8080/flexjcr/ReportServlet?reportName=RPT_RMK_PASIEN_MASUK&param1=03/07/2019&param2=05/07/2019&param3=RUMAH%20SAKIT%20ISLAM%20JAKARTA%20PONDOK%20KOPI
+5. http://localhost:8080/flexjcr/ReportServlet?reportName=RPT_KEU_TAGIHAN_REKAP&param1=349&param2=03/06/2019&param3=04/07/2019
+6. http://localhost:8080/flexjcr/ReportServlet?reportName=RPT_GADAR_PENGIRIM&param1=01/07/2019&param2=07/07/2019&param3=RUMAH%20SAKIT%20ISLAM%20JAKARTA%20PONDOK%20KOPI
+7. http://localhost:8080/flexjcr/ReportServlet?reportName=RPT_GADAR_PERLU_PENUNJANG&param1=01/07/2019&param2=07/07/2019&param3=RUMAH%20SAKIT%20ISLAM%20JAKARTA%20PONDOK%20KOPI
+8. http://localhost:8080/flexjcr/ReportServlet?reportName=RPT_RI_PASIEN_KELUAR_DTL&param1=01/06/2019&param2=07/07/2019&param3=RUMAH%20SAKIT%20ISLAM%20JAKARTA%20PONDOK%20KOPI&param4=7
+9. http://localhost:8080/flexjcr/ReportServlet?reportName=RPT_RI_PASIEN_KELUAR&param1=2019&param2=06&param3=RUMAH%20SAKIT%20ISLAM%20JAKARTA%20PONDOK%20KOPI&param4=7
+10 http://localhost:8080/flexjcr/ReportServlet?reportName=RPT_FAR_RESEP_JAMINAN&param1=01/07/2019&param2=02/07/2019&param3=RUMAH%20SAKIT%20ISLAM%20JAKARTA%20PONDOK%20KOPI
+	

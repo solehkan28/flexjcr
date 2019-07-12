@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/com.azalea.ufl.barcode.1.0.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-configuration-1.2.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/CrystalCommon2.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/CrystalReportsRuntime.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/cvom.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/DatabaseConnectors.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/icu4j.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/JDBInterface.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jrcerom.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/keycodeDecoder.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/logging.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/pfjgraphics.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/QueryBuilder.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/webreporting.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/webreporting-jsf.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/XMLConnector.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/xpp3.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/mssql-jdbc-6.4.0.jre8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
